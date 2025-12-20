@@ -1,9 +1,11 @@
 .f-roxo{
     font-family: Arial;
 
-    background-color: rgb(158, 4, 158);
-    width: 20px;
-    border: 5px solid black ;
+    background-color: darkmagenta;
+    width: 300px ;
+    padding: 50px;
+    border: 5px black;
+    box-sizing: content-box;
     
     text-align: center;
     padding: 20px;
