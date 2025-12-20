@@ -1,6 +1,11 @@
 .f-roxo{
     background-color: darkmagenta;
-    border: 41cap;
-    resize: horizontal;
+    border: 10px solid black ;
+    
+    overflow: auto;
+    resize:horizontal;
+    
     text-align: center;
+    padding: 20px;
+    min-width: 150px;
 }
