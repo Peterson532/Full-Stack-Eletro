@@ -1,12 +1,11 @@
 h2 {
     font-family: Arial, Helvetica, sans-serif;
-    text-align: center !important;  
+    text-align: center   
 }
+button{
 
-.pagina {
-    bottom: auto;
     background-color: rgb(109, 4, 207);
-    border: solid 10px;
+    color: white;
     font-family: Arial, Helvetica, sans-serif;
-    
+    text-decoration: solid;
 }
