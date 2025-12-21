@@ -4,8 +4,9 @@ h2 {
 }
 
 .pagina {
+    bottom: auto;
     background-color: rgb(109, 4, 207);
     border: solid 10px;
     font-family: Arial, Helvetica, sans-serif;
-    bottom: auto;
+    
 }
