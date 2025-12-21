@@ -8,7 +8,7 @@ button{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: solid;
-    transition: 0.3em;
+    transition:all 0.3s ease;
 }
 
 body {
