@@ -1,7 +1,7 @@
 .titulo {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
-    color:white;
+
 }
 button{
 
@@ -15,4 +15,5 @@ button{
 body {
 
     background-color: rgb(63, 63, 63) !important;
+    color:white;
 }
